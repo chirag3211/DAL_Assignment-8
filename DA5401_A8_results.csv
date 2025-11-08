@@ -1,0 +1,5 @@
+Model,RMSE
+Stacking (KNN+Bag+GBR -> Ridge),115.44486953023988
+Gradient Boosting,123.1894804804682
+Baseline (best of DT@6 / Linear),133.83542094172765
+"Bagging (DT@6, n=100)",155.31798821149295
